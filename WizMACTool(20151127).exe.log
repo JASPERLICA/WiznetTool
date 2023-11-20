@@ -1,0 +1,385 @@
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM3': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM3': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM3': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM3': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM3': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM3': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 3-4: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 2-3: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM4': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM4': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 390, in Write_WIZ107SR_MAC
+  File "serial\serialwin32.pyc", line 279, in write
+serial.serialutil.SerialException: Attempting to use a port that is not open
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM4': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM4': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM4': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM4': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM4': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM4': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM4': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM4': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 3-4: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 2-3: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 396, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode byte 0x80 in position 5: incomplete multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 3-4: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 2-3: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 414, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 3-4: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 3-4: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 2-3: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 8-9: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM4': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 390, in Write_WIZ107SR_MAC
+  File "serial\serialwin32.pyc", line 279, in write
+serial.serialutil.SerialException: Attempting to use a port that is not open
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM4': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 390, in Write_WIZ107SR_MAC
+  File "serial\serialwin32.pyc", line 279, in write
+serial.serialutil.SerialException: Attempting to use a port that is not open
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 390, in Write_WIZ107SR_MAC
+  File "serial\serialwin32.pyc", line 279, in write
+serial.serialutil.SerialException: Attempting to use a port that is not open
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM4': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 2-3: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 0-1: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 0-1: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 8-9: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 3-4: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 2-3: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM3': WindowsError(2, 'The system cannot find the file specified.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 8-9: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 0-1: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 0-1: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 3-4: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 2-3: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 3-4: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM3': WindowsError(2, 'The system cannot find the file specified.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM3': WindowsError(2, 'The system cannot find the file specified.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 8-9: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 0-1: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 0-1: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 396, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode byte 0x80 in position 6: incomplete multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 2-3: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 0-1: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 0-1: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 0-1: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 2-3: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 0-1: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 0-1: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 2-3: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM3': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 2-3: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 268, in onWriteMAC
+  File "WizMACTool.py", line 408, in ReWrite_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 0-1: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 0-1: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM3': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM3': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 390, in Write_WIZ107SR_MAC
+AttributeError: 'WIZnetMACTool' object has no attribute 'ser'
+Traceback (most recent call last):
+  File "WizMACTool.py", line 243, in onSerialConnect
+  File "serial\serialwin32.pyc", line 38, in __init__
+  File "serial\serialutil.pyc", line 282, in __init__
+  File "serial\serialwin32.pyc", line 66, in open
+serial.serialutil.SerialException: could not open port u'COM3': WindowsError(5, 'Access is denied.')
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 3-4: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 3-4: illegal multibyte sequence
+Traceback (most recent call last):
+  File "WizMACTool.py", line 270, in onWriteMAC
+  File "WizMACTool.py", line 392, in Write_WIZ107SR_MAC
+  File "wx\_core.pyc", line 13101, in AppendText
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 2-3: illegal multibyte sequence
